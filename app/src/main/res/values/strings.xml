@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Asclepius</string>
+    <string name="camera_x">CameraX</string>
+    <string name="camera">Kamera</string>
+    <string name="gallery">Add Image</string>
+    <string name="replace_image">Replace Image</string>
+    <string name="analyze">Let\'s Analyze</string>
+    <string name="result">Hasil Analisis</string>
+    <string name="image_classifier_failed">Image classifier failed to initialize. See error logs for details</string>
+    <string name="history">history</string>
+    <string name="label">Cancer</string>
+    <string name="articles">Articles</string>
+    <string name="titles">Tesla-Tata Electronics discreet pact boosts India\'s semiconductor ambitions as EV giant eyes local production: Report</string>
+    <string name="description">TheTesla-Tata deal, executed discreetly a few months ago, positions Tata Electronics as a reliable supplier for top-tier international clients seeking to establish a crucial component of their semiconductor value chain within India, as per an ET report.</string>
+</resources>
